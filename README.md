@@ -1,6 +1,8 @@
 # Magic-Scroll-Animation
 
-This is made with help of a tutorial available on YouTube
+This is made with help of a tutorial available on YouTube from a channel name Onle Tutorial
+
+Link to tutorial :- https://youtu.be/3rXD3jmpq9g
 
 Link :- https://killertian.github.io/Magic-Scroll-Animation/
 
